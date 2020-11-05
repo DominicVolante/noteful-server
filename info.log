@@ -20,3 +20,11 @@
 {"message":"Note with id 308b29de-c763-4123-afed-fcc65b7b81cd deleted.","level":"info"}
 {"message":"Note with id dec675a8-55c7-44c1-b5a1-a2461125afac deleted.","level":"info"}
 {"message":"Knex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?","level":"error"}
+{"message":"Knex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?","level":"error"}
+{"message":"Knex: Timeout acquiring a connection. The pool is probably full. Are you missing a .transacting(trx) call?","level":"error"}
+{"message":"Folder with id 1b965be5-7c62-404f-ba5b-b692716258ac created.","level":"info"}
+{"message":"Folder with id f7d09826-17ee-4286-a087-08c08216bbd2 created.","level":"info"}
+{"message":"Folder with id 0c7c0674-cd6e-4ef8-8968-b2e45e18e1a8 created.","level":"info"}
+{"message":"Folder with id 3a71cfb2-cf68-40cb-b5ef-5d971ab83670 created.","level":"info"}
+{"message":"Folder with id ec1723db-7579-468a-a4ad-643bd356a99b created.","level":"info"}
+{"message":"Folder with id afa92be5-e031-43c9-aa02-eaaf886814a2 created.","level":"info"}

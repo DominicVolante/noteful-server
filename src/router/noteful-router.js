@@ -110,7 +110,7 @@ notefulRouter
     const { name } = req.body;
 
     const newFolder = { name };
-
+    console.log(newFolder)
     NotefulService.insertFolder(
       req.app.get('db'),
       newFolder
