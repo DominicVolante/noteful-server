@@ -28,3 +28,7 @@
 {"message":"Folder with id 3a71cfb2-cf68-40cb-b5ef-5d971ab83670 created.","level":"info"}
 {"message":"Folder with id ec1723db-7579-468a-a4ad-643bd356a99b created.","level":"info"}
 {"message":"Folder with id afa92be5-e031-43c9-aa02-eaaf886814a2 created.","level":"info"}
+{"message":"insert into \"notes\" (\"content\", \"folderid\", \"modified\", \"name\") values ($1, $2, $3, $4) returning * - time zone \"gmt-0500\" not recognized","level":"error"}
+{"message":"Note with id 822b7a1d-f027-4742-a145-19fd345ae920 created.","level":"info"}
+{"message":"Note with id 14821aaa-b5f4-499d-b37d-ad9f5759d838 created.","level":"info"}
+{"message":"Note with id a21b84a7-be5e-41ca-87c2-f77451f8659b created.","level":"info"}
